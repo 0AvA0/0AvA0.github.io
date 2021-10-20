@@ -1,0 +1,30 @@
+body {
+    border-top: 24px solid rgb(233, 211, 11);
+    border-bottom: 24px solid rgb(0, 204, 255);
+    border-left: 24px solid rgb(174, 0, 255);
+    border-right: 24px solid rgb(0, 255, 0);
+    margin: 1px;
+    padding: 10px 10px 555px 10px;
+}
+
+p {
+    background: rgba(2, 175, 255, 0.3);
+    border: 2px solid rgb(252, 3, 239);
+    padding: 10px;
+    margin: 10px;
+    color: rgb(160, 6, 250);
+    text-align: center;
+}
+
+#red {
+    color: red;
+}
+
+#green {
+    color: green;
+    border-top: 1px solid rgb(233, 211, 11);
+    border-bottom: 1px solid rgb(0, 204, 255);
+    border-left: 1px solid rgb(174, 0, 255);
+    border-right: 1px solid rgb(255, 166, 0);
+    margin: 1px;
+}

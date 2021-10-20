@@ -1,0 +1,37 @@
+div {
+    border-radius: 5px;
+}
+
+#container {
+    width: 500px;
+    height: 800px;
+    background-color: blanchedalmond;
+    border: 1px solid red;
+}
+
+#top {
+    width: 99%;
+    height: 15%;
+    background-color: sandybrown;
+    border: 1px solid red;
+}
+
+#left {
+    float: left;
+    width: 33%;
+    height: 80%;
+    background-color: sandybrown;
+    border: 1px solid red;
+}
+
+#right {
+    float: left;
+    width: 66.2%;
+    height: 80%;
+    background-color: sandybrown;
+    border: 1px solid red;
+}
+
+#clear {
+    clear: both;
+}
